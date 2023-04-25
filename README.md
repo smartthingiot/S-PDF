@@ -1,5 +1,8 @@
 # S-PDF
 
+
+[Source](https://github.com/Frooodle/Stirling-PDF/blob/main/HowToUseOCR.md)
+
 ```
 version: '3.3'
 services:
